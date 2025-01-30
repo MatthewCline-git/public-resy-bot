@@ -1,0 +1,5 @@
+/target
+config/default.toml
+.env
+.git*
+src/types.rs
